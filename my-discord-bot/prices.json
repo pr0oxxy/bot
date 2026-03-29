@@ -1,0 +1,25 @@
+{
+  "robux_topup": {
+    "26,400 Robux": "$168.00",
+    "12,100 Robux": "$84.00",
+    "5,800 Robux": "$43.00",
+    "2,200 Robux": "$18.50",
+    "1,100 Robux": "$9.00"
+  },
+  "robux_giftcard": {
+    "$100 Gift Card": "$65.00",
+    "$50 Gift Card": "$32.50",
+    "$25 Gift Card": "$16.50",
+    "$10 Gift Card": "$7.50"
+  },
+  "apex": {
+    "11.5k Apex Coins": "$65.00",
+    "6.7k Apex Coins": "$39.00",
+    "4.35k Apex Coins": "$27.00",
+    "2.15k Apex Coins": "$14.00"
+  },
+  "valorant": {
+    "11000 VP": "$65.00",
+    "5350 VP": "$35.00"
+  }
+}
